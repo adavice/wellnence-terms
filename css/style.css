@@ -53,7 +53,7 @@ h2 {
 }
 
 .hero {
-    background: url('../img/hero.jpg') no-repeat center center;
+    background: url('../img/hero.png') no-repeat center center;
     background-size: cover;
     min-height: 80vh;
     display: flex;
