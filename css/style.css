@@ -1,6 +1,6 @@
 :root {
     /* Light Theme (default) */
-    --primary: #a4c74d;
+    --primary: #a4c74d!important;
     --secondary: #ff9a8b;
     --accent: #20c997;
     --background: #ffffff;
