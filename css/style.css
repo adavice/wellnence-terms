@@ -13,9 +13,9 @@
 }
 
 [data-theme="dark"] {
-    --primary: #ff676f;
+    --primary: #a4c74d!important;
     --secondary: #ff998b;
-    --accent: #fa8d4e;
+    --accent:  #20c997;
     --background: #383838;
     --surface: #2c2c2c;
     --text: #fff1f0;
